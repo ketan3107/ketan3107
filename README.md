@@ -43,7 +43,7 @@ I'm a Data Scientist and aspiring Data Analyst with a passion for turning raw da
 ## 📂 Featured Projects
 
 ### 🛒 [Predicting Product Sales via Sentiment Analysis](https://github.com/ketan3107/Thesis-)
-> **MSc Thesis Project | 2024**
+> **MSc Thesis Project | 2026**
 
 Built an end-to-end ML pipeline to predict Amazon product sales from customer review sentiment — addressing the real-world business problem of demand forecasting without historical sales data.
 
