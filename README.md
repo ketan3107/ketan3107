@@ -179,18 +179,6 @@ Applied NLP and big data techniques to classify BBC news articles into categorie
 
 ---
 
-### 📊 Customer Retention Analysis (SQL Project)
-> **Independent Project | 2024**
-
-Analysed 50,000+ transaction records using MySQL to identify churn patterns and key performance indicators.
-
-- Calculated KPIs: churn rate, purchase frequency, AOV, and Customer Lifetime Value (CLV)
-- Built dashboards and reports to visualise retention trends
-- Identified that top 20% of customers generated ~60% of total revenue
-- **Stack:** MySQL • SQL • Business Intelligence • Dashboard Reporting
-
----
-
 ## 📊 GitHub Stats
 
 ![Ketan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketan3107&show_icons=true&theme=tokyonight&hide_border=true)
